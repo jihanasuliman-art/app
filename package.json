@@ -1,0 +1,1 @@
+{\n  \"name\": \"app\",\n  \"version\": \"1.0.0\",\n  \"scripts\": {\n    \"test\": \"echo 'Running tests...' && exit 0\",\n    \"lint\": \"echo 'Linting the code...' && exit 0\",\n    \"health\": \"echo 'Performing health checks...' && exit 0\"\n  }\n}
